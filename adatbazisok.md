@@ -19,3 +19,9 @@ select eletkor,utolsoell from kutyak
 ```sql
 select * from sqlite_sequence
 ```
+**Adatok rendezése a lekérdezésben oszlopok értéke szerint**
+```sql
+select eletkor,utolsoell from kutyak
+order by eletkor desc
+```
+A lekérdezésben az **order by** parancs segítségével lehet az adatokat növekvő vagy csökkenő sorrendbe rendezni. Az order by után meg kell adni azokat a mezőket, amelyek szerint rendezni kell. A **desc** jelenti a csökkenő sorrendet.
