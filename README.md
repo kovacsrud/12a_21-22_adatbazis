@@ -1,1 +1,1 @@
-# 12a_21-22_adatbazis
+# 12a adatbázis ismeretek
