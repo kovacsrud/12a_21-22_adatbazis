@@ -3,6 +3,12 @@
 CRUD (Create,Read,Update,Delete)
 
 Új adat felvitele: INSERT INTO
+Adat felvitele a *kutyanevek* táblába:
+```sql
+INSERT INTO kutyanevek (kutyanev) VALUES ('Bigyóka');
+```
+Mivel a *kutyanevek* tábla **id** mezője autoincrement tulajdonságú, ezért az értékét nem kell megadni az Insert parancsnál
+
 
 Az SQL nyelv
 
