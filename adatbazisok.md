@@ -15,3 +15,7 @@ Csak a két kiválasztott oszlop adata jelenjen meg:
 ```sql
 select eletkor,utolsoell from kutyak
 ```
+**Autoincrement tulajdonságú oszlopok értékeinek a megtekintése**
+```sql
+select * from sqlite_sequence
+```
