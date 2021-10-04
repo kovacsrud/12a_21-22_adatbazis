@@ -1,5 +1,9 @@
 # Adatbázis ismeretek
 
+CRUD (Create,Read,Update,Delete)
+
+Új adat felvitele: INSERT INTO
+
 Az SQL nyelv
 
 Lekérdezések az adattáblából a SELECT parancs:
