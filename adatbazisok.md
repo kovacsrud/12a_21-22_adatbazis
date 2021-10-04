@@ -15,10 +15,16 @@ Mivel a *kutyanevek* tábla **id** mezője autoincrement tulajdonságú, ezért 
 ```sql
 UPDATE kutyanevek
    SET kutyanev = 'Bigyócska'
- WHERE id = 289
+ WHERE id = 289;
 ```
 Ebben a példában a kutyanevek adattábla kutyanév oszlopának értékét módosítjuk, az érték annál a rekordnál módosul, ahol az id értéke 289.
-       
+
+### Adatok törlése:DELETE
+
+```sql
+DELETE FROM kutyanevek WHERE id = 289;
+```
+A DELETE paranccsal 1 vagy több rekord törölhető az adattáblából.       
 
 ## Lekérdezések az adattáblából a SELECT parancs:
 A felsorolt példák a kutyak adatbázisra vonatkoznak!
