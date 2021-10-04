@@ -1,18 +1,26 @@
 # Adatbázis ismeretek
 
-CRUD (Create,Read,Update,Delete)
+# Az SQL nyelv
 
-Új adat felvitele: INSERT INTO
+## CRUD (Create,Read,Update,Delete)
+
+### Új adat felvitele: INSERT INTO
 Adat felvitele a *kutyanevek* táblába:
 ```sql
 INSERT INTO kutyanevek (kutyanev) VALUES ('Bigyóka');
 ```
 Mivel a *kutyanevek* tábla **id** mezője autoincrement tulajdonságú, ezért az értékét nem kell megadni az Insert parancsnál
 
+### Adatok módosítása:UPDATE
+```sql
+UPDATE kutyanevek
+   SET kutyanev = 'Bigyócska'
+ WHERE id = 289
+```
+Ebben a példában a kutyanevek adattábla kutyanév oszlopának értékét módosítjuk, az érték annál a rekordnál módosul, ahol az id értéke 289.
+       
 
-Az SQL nyelv
-
-Lekérdezések az adattáblából a SELECT parancs:
+## Lekérdezések az adattáblából a SELECT parancs:
 A felsorolt példák a kutyak adatbázisra vonatkoznak!
 
 A **kutyak** tábla összes adatának lekérdezése:
