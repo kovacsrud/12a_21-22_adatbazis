@@ -50,10 +50,18 @@ order by eletkor desc
 ```
 A lekérdezésben az **order by** parancs segítségével lehet az adatokat növekvő vagy csökkenő sorrendbe rendezni. Az order by után meg kell adni azokat a mezőket, amelyek szerint rendezni kell. A **desc** jelenti a csökkenő sorrendet.
 
-**Adatok lekérdezése feltételek megadásával, a SELECT parancs WHERE része
+#### Adatok lekérdezése feltételek megadásával, a SELECT parancs WHERE része
 
 ```sql
 select eletkor,utolsoell from kutyak where utolsoell='2017.05.14'
 ```
 Ez a lekérdezés azokat az adatokat jeleníti meg, amelyeknél a dátum 2017.05.14
 
+**Szám típusú adatoknál aritmetikai műveleteket is használhatunk**
+
+pl. A 6 évnél idősebb kutyák utolsó ellenőrzésének adatai, csökkenő sorrendben:
+```sql
+select eletkor,utolsoell from kutyak
+where eletkor>6
+order by eletkor desc
+```
