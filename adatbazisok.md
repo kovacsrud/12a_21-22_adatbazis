@@ -76,3 +76,10 @@ select count(*) from kutyak
 ```sql
 select count(*) As 'Bejegyzések száma' from kutyak
 ```
+**Több összesítő föggvény is használható**
+```sql
+select max(eletkor),
+min(eletkor),
+avg(eletkor),
+count(*) from kutyak
+```
