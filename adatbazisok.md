@@ -83,3 +83,10 @@ min(eletkor),
 avg(eletkor),
 count(*) from kutyak
 ```
+**Összesítés csoportosítással, az adatok minden csoportra ki lesznek számolva**
+
+```sql
+select avg(eletkor),utolsoell
+from kutyak
+group by utolsoell
+```
