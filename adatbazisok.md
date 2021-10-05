@@ -71,6 +71,7 @@ Az összesítések műveleteit a MIN,MAX,SUM,AVG műveletekkel tudjuk elvégezni
 ```sql
 select count(*) from kutyak
 ```
+
 **Egy tábla sorainak megszámlálása, álnévvel**
 ```sql
 select count(*) As 'Bejegyzések száma' from kutyak
