@@ -90,3 +90,10 @@ select avg(eletkor),utolsoell
 from kutyak
 group by utolsoell
 ```
+**Szűrés csoportokra, HAVING**
+```sql
+select avg(eletkor),utolsoell
+from kutyak
+group by utolsoell
+having utolsoell='2018.01.01'
+```
