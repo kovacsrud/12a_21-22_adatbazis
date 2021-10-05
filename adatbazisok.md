@@ -65,3 +65,13 @@ select eletkor,utolsoell from kutyak
 where eletkor>6
 order by eletkor desc
 ```
+### Aggregáló (összesítő) függvények
+Az összesítések műveleteit a MIN,MAX,SUM,AVG műveletekkel tudjuk elvégezni. A COUNT (megszámlálás) bármilyen típusú oszlopon végrehajtható, a többi csak szám típusokon.
+**Egy tábla sorainak megszámlálása**
+```sql
+select count(*) from kutyak
+```
+**Egy tábla sorainak megszámlálása, álnévvel**
+```sql
+select count(*) As 'Bejegyzések száma' from kutyak
+```
