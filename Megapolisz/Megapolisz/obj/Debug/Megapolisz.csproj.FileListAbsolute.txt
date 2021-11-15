@@ -1,0 +1,8 @@
+D:\rud\kodtarak\12a_21-22_adatbazis\Megapolisz\Megapolisz\bin\Debug\megapoliszok.txt
+D:\rud\kodtarak\12a_21-22_adatbazis\Megapolisz\Megapolisz\bin\Debug\Megapolisz.exe.config
+D:\rud\kodtarak\12a_21-22_adatbazis\Megapolisz\Megapolisz\bin\Debug\Megapolisz.exe
+D:\rud\kodtarak\12a_21-22_adatbazis\Megapolisz\Megapolisz\bin\Debug\Megapolisz.pdb
+D:\rud\kodtarak\12a_21-22_adatbazis\Megapolisz\Megapolisz\obj\Debug\Megapolisz.csproj.AssemblyReference.cache
+D:\rud\kodtarak\12a_21-22_adatbazis\Megapolisz\Megapolisz\obj\Debug\Megapolisz.csproj.CoreCompileInputs.cache
+D:\rud\kodtarak\12a_21-22_adatbazis\Megapolisz\Megapolisz\obj\Debug\Megapolisz.exe
+D:\rud\kodtarak\12a_21-22_adatbazis\Megapolisz\Megapolisz\obj\Debug\Megapolisz.pdb
