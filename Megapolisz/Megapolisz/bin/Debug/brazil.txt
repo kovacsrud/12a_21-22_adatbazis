@@ -1,0 +1,3 @@
+﻿varos;nepesseg1;nepesseg2
+Rio de Janeiro;12330186;6520266
+São Paulo;21500000;12106920
