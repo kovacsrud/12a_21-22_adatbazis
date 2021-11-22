@@ -1,0 +1,15 @@
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\bin\Debug\IskolaGUI.exe.config
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\bin\Debug\IskolaGUI.exe
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\bin\Debug\IskolaGUI.pdb
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.csproj.AssemblyReference.cache
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\MainWindow.g.cs
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\App.g.cs
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI_MarkupCompile.cache
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI_MarkupCompile.lref
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\MainWindow.baml
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.g.resources
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.Properties.Resources.resources
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.csproj.GenerateResource.cache
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.csproj.CoreCompileInputs.cache
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.exe
+D:\rud\kodtarak\12a_21-22_adatbazis\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.pdb
