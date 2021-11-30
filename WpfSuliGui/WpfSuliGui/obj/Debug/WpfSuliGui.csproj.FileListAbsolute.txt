@@ -1,0 +1,15 @@
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\bin\Debug\WpfSuliGui.exe.config
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\bin\Debug\WpfSuliGui.exe
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\bin\Debug\WpfSuliGui.pdb
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\WpfSuliGui.csproj.AssemblyReference.cache
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\MainWindow.g.cs
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\App.g.cs
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\WpfSuliGui_MarkupCompile.cache
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\WpfSuliGui_MarkupCompile.lref
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\MainWindow.baml
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\WpfSuliGui.g.resources
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\WpfSuliGui.Properties.Resources.resources
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\WpfSuliGui.csproj.GenerateResource.cache
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\WpfSuliGui.csproj.CoreCompileInputs.cache
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\WpfSuliGui.exe
+D:\rud\kodtarak\12a_21-22_adatbazis\WpfSuliGui\WpfSuliGui\obj\Debug\WpfSuliGui.pdb
